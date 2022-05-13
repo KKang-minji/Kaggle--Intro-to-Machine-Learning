@@ -1,1 +1,1 @@
-# Kaggle--Intro-to-Machine-Learning
+# Kaggle--기초 머신러닝
